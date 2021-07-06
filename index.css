@@ -122,6 +122,13 @@ body {
   font-style: italic;
   margin: 3px 0 10px;
 }
-
-
+.object-container{
+  background: white;
+  padding-left: 5%;
+  font-size: 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5rem;
+  margin-bottom: 5px;
+  border-radius: 5px;
+} 
 
